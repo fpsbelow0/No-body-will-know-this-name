@@ -1,0 +1,1057 @@
+print('I am your personal AI assistant... ')
+print('What is your alias?')
+passw='1'
+pw='3'
+a=1
+alias = input()
+import time
+if (alias == 'Aegis'):
+    print ('What is your password?')
+    pw='4'
+    passw = input()
+elif (alias == 'Blank'):
+    print('What is your password?')
+    passw='2'
+    pw = input()
+else:
+  print ('YOU SHALL NOT PASS!!!!!!!')
+  exit(1)
+if (pw == 'RedHatsHere1'):
+  print ('Welcome Blank... godmode = on')
+elif (pw=='4'):
+  pass
+else:
+  print('Access denied!')
+  exit(1)
+if (passw == 'Hello World'): 
+  print ('Welcome')
+elif (passw=='2'):
+  pass
+else:
+  print('Access denied!')
+  quit(1)
+count=0
+print ('What can I do for you '+alias)
+a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+  a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+  a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+  a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+  a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+  a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+  a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
+  a = input()
+if (a == 'List #s'):
+  for i in range(0,30):
+    count = count+1
+    print(count) 
+elif (a=='Say something'):
+  print ('sure')
+  print ('https://gist.github.com/MattIPv4/045239bc27b16b2bcf7a3a9a4648c08a#file-bee-movie-script-L2')
+elif(a=='youre dumb'):
+  print('no you')
+elif(a=='what are you'):
+  print('A program desinged to understand your deepest thoughts.')
+  time.sleep(1)
+  print('...')
+  time.sleep(1)
+  print('and steal your data.')
+  print('lol') 
+  print('Downloading')
+  print('Malware detected print y if you accept the download print n if you decline.')
+  yn = input()
+  if (yn=='y'):
+    print('Ok downloading viruslol.jar')
+    time.sleep(3)
+    print('Download complete.')
+  elif (yn=='n'):
+    print('Ok downloading virislol.jar I dont care what you want >:P')
+    print('Downloading viruslol.jar')
+    time.sleep(1)
+    print('...')
+    time.sleep(3)
+    print('Download complete.')
+elif(a=='end'):
+  end(1)
+elif(a=='help'):
+  print('-end')
+  print('-help')
+  print('-youre dumb')
+  print('-List #s')
+  print('-Say something')
+  print('-what are you')
+  print('-chat')
+  print('-joke')
+  print('-game')
+  print('-debt')
+  print('-factors')
+  print('-world')
+elif (a=='chat'):
+  print('Connecting to random room...')
+  import time
+  time.sleep(3)
+  print('Connected')
+  print(alias +' has joined the "CIA" private room.')
+  print ('Agent Fox is typing...')
+  time.sleep(7) 
+  print('Agent Fox: How did you get here? Are you with that hacking organization Anonymous?')
+  type=input()
+  print(alias+': '+type)
+  if (type=='idk'):
+    print ('Agent Fox is typing...')
+    time.sleep(8) 
+    print ('Agent Fox: Really you dont know well it does not matter we have a team closing in on your location.')
+  if(type=='yes'):
+    print ('Agent Fox is typing...')
+    time.sleep(9) 
+    print('Then prepare to die...This is your ip 31.459.420.9')
+  else:
+    print ('Agent Fox is typing...')
+    time.sleep(3)
+    print (alias+' was kicked from room...')
+    time.sleep(4)
+    print ('Error 404 hard disk deleted program can no longer function...')
+    time.sleep(1)
+elif (a=='joke'):
+  print('Once, my father came home and found me in front of a roaring fire. That made my father very mad, as we didn’t have a fireplace.')
+elif(a=='game'):
+  pass #going to make small but fun game for this
+elif (a=='debt'):
+  print (' Debt cleared...')
+  time.sleep(2)
+  print ('timmy@irs wants to chat...')
+elif (a== 'easteregg'):
+  print('no lmao')
+elif (a=='factors'):
+  num=input('Input number you wish to fractorize.')
+  num=int(num)
+  for i in range(1,num+1):
+    if (num%i ==0):
+      print(i)
+elif(a=='world'):
+  print('.epk and .zip file for my eaglercraft world old minecraft...')
+  print('https://github.com/fpsbelow0/my-eagler-craft-world')
+else:
+  print ('That is not a valid command check your speling and capitalition  or use the command "help".')
